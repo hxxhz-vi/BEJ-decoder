@@ -1,0 +1,9 @@
+# lsp clangd
+.clangd
+.cache
+
+# cmake
+out
+build
+CMakePresets.json
+compile_commands.json
